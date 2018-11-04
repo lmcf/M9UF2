@@ -35,7 +35,7 @@ _Explica què és un servei (daemon). Posa algun exemple._
   
 Un servei daemon es un proces que s'executa en segon pla i l'usuari el te fora de control. Aquests processos s'executen al iniciar l'ordinador, la funció més comú d'aquest processos es donar servei a altres programes.
 
-###Exercici 4
+### Exercici 4
 
 _Explica en quins estats es pot trobar un procés i com pot passar d’un estat a un altre._
 
@@ -48,7 +48,7 @@ _Explica en quins estats es pot trobar un procés i com pot passar d’un estat 
 - **Llest/Preparat:** El procés no esta executan-se, però es candidat per pasar a actiu.El planificador es qui amb un criteri decideix quin procés serà el següent.
 - **Finalitzat:** El procés ha acabat les instruccions i finalitza la seva execució.
 
-###Exercici 5
+### Exercici 5
 
 _Fes un programa en C que generi una estructura de processos amb un pare i 3 fills.
 Visualitza per cada fill el seu PID i el del pare. Visualitza també el PID del pare de tots._
