@@ -51,11 +51,5 @@ _Explica en quins estats es pot trobar un procés i com pot passar d’un estat 
 - **Llest/Preparat:** El procés no esta executan-se, però es candidat per pasar a actiu.El planificador es qui amb un criteri decideix quin procés serà el següent.
 - **Finalitzat:** El procés ha acabat les instruccions i finalitza la seva execució.
 
-### Exercici 5
-
-_Fes un programa en C que generi una estructura de processos amb un pare i 3 fills.
-Visualitza per cada fill el seu PID i el del pare. Visualitza també el PID del pare de tots._
-
-
 
 
