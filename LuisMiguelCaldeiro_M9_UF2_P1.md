@@ -10,7 +10,10 @@ _Explica, amb les teves paraules, què és la programació concurrent i quins av
 
 **Inconvenients**
 
-falta
+- Consum de recursos quan hi ha diversos processos
+- Dificultat de desenvolupament
+- Dificultat de Verificació
+- Si s'aplica malament pot donar resultat erronis
 
 
 ### Exercici 2
